@@ -1,0 +1,27 @@
+{
+    "emptyFormErrors": [
+      "Subject must be between 5 and 100 characters.",
+      "Subject may not be blank",
+      "Name may not be blank",
+      "Message must be between 20 and 2000 characters.",
+      "Message may not be blank",
+      "Email may not be blank",
+      "Phone may not be blank",
+      "Phone must be between 11 and 21 characters."
+    ],
+    "invalidFormErrors": [
+      "Phone must be between 11 and 21 characters.",
+      "debe ser una dirección de correo electrónico con formato correcto",
+      "Message must be between 20 and 2000 characters."
+    ],
+ "infoObligatoria": [
+      "Shady Meadows B&B",
+      "The Old Farmhouse, Shady Street, Newfordburyshire, NE1 410S",
+      "012345678901",
+      "fake@fakeemail.com" ],
+
+      "descEsperada": 
+      "Welcome to Shady Meadows, a delightful Bed & Breakfast nestled in the hills on Newingtonfordburyshire. A place so beautiful you will never want to leave. All our rooms have comfortable beds and we provide breakfast from the locally sourced supermarket. It is a delightful place."
+
+  }
+
